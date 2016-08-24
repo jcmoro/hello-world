@@ -1,2 +1,5 @@
 # hello-world
-Hello World repository
+
+Hi there, Humans!
+
+jcmoro here, coming soon!
